@@ -51,5 +51,6 @@ public class Basics {
 		Assert.assertEquals(msg, expectedMSG);*/
 
 	}
+System.out.println("Dummy changes");
 
 }
